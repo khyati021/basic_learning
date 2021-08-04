@@ -1,5 +1,4 @@
-// C++ program to convert a decimal
-// number to binary number
+// C++ program to convert a decimal number to binary number
  
 #include <iostream>
 using namespace std;
